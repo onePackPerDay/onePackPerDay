@@ -6,4 +6,5 @@
 <img alt="IntelliJ-IDEA" src ="https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white"/>
 </p>
 
-[![stats](https://github-readme-stats.vercel.app/api?username=onePackPerDay)](https://github.com/anuraghazra/github-readme-stats)
+[![STATS](https://github-readme-stats.vercel.app/api?username=onePackPerDay)](https://github.com/anuraghazra/github-readme-stats)
+![STATS](https://github-readme-stats.vercel.app/api?username=onePackPerDay&show_icons=true&theme=graywhite)
