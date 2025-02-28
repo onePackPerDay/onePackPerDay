@@ -41,7 +41,7 @@
   <!-- KAFKA -->
   <img alt="Kafka" src ="https://img.shields.io/badge/kafka-231F20.svg?&style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <!-- AWS -->
-  <img alt="AWSEC2" src ="https://img.shields.io/badge/AWS-231F20.svg?&style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img alt="AWSEC2" src ="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 </p>
 
 <br>
