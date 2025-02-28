@@ -45,7 +45,8 @@
 <br>
 
 <!-- GITHUB STATS -->
-![STATS](https://github-readme-stats.vercel.app/api?username=onePackPerDay&show_icons=true&theme=graywhite)
+<!-- ![STATS](https://github-readme-stats.vercel.app/api?username=onePackPerDay&show_icons=true&theme=graywhite) -->
+
 
 <br>
 
