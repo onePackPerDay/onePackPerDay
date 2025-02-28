@@ -2,7 +2,7 @@
 
 
 <h3>STACKS<h3/>
-<!-- STACKS -->
+<!-- MAIN STACKS -->
 <p justify-content: flex-start; style='display: flex;'>
   <!-- JAVA -->
   <img alt="Java" src ="https://img.shields.io/badge/Java-000000.svg?&style=for-the-badge"/>
@@ -32,6 +32,7 @@
 <br>
   
 <h3>STUDYING<h3/>
+<!-- STUDYING STACKS -->
 <p justify-content: flex-start; style='display: flex;'>
   <!-- INTELLIJ -->
   <img alt="Docker" src ="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
@@ -43,8 +44,8 @@
 
 <br>
 
+<!-- GITHUB STATS -->
 ![STATS](https://github-readme-stats.vercel.app/api?username=onePackPerDay&show_icons=true&theme=graywhite)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onePackPerDay&layout=compact)
 
 <br>
 
