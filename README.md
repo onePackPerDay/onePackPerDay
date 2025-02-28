@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=H%20E%20L%20L%20O&fontSize=80&color=B897FF)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=H%20E%20L%20L%20O&fontSize=80&color=B897FF)
 
 <!-- header -->
 <p justify-content: flex-start; style='display: flex;'>
