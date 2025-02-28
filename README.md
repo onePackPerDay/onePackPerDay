@@ -14,12 +14,10 @@
   <img alt="IntelliJ-IDEA" src ="https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white"/>
 </p>
 
-<p>
-  ![STATS](https://github-readme-stats.vercel.app/api?username=onePackPerDay&show_icons=true&theme=graywhite)
-</p>
-<p>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onePackPerDay&layout=compact)
-</p>
+
+![STATS](https://github-readme-stats.vercel.app/api?username=onePackPerDay&show_icons=true&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onePackPerDay&layout=compact)
+
 
 
 
