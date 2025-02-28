@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=H%20E%20L%20L%20O&fontSize=80&color=B897FF)
 
 <!-- header -->
-<p align='center' style='display: flex;'>
+<p justify-content: flex-start; style='display: flex;'>
   <!-- java -->
   <img alt="Java" src ="https://img.shields.io/badge/Java-000000.svg?&style=for-the-badge"/>
   <!-- springboot -->
